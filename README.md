@@ -18,12 +18,12 @@ $ npm install # Install dependencies
 $ npm start # Start the server
 ```
 
-##MongoDB install
+## MongoDB install
 ```
 npm install mongodb --save
 ```
 
-##STATUS CODES
+## STATUS CODES
 ```
 exports.STATUS_CODE = {
     SERVER_ERROR : {
