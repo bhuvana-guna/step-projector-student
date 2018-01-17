@@ -1,12 +1,12 @@
 # step-projector-student
 
-##Google Font
+## Google Font
 https://fonts.googleapis.com/css?family=Lato:300
 
-##jQuery
+## jQuery
 https://code.jquery.com/jquery-3.2.1.min.js
 
-##Link to JSON
+## Link to JSON
 https://api.myjson.com/bins/tls49
 
 
