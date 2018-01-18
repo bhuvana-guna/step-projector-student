@@ -48,3 +48,9 @@ exports.STATUS_CODE = {
     }
 };
 ```
+
+## Body Background color
+```
+Body background color   #442D4B
+Font color              #ffcb59
+```
